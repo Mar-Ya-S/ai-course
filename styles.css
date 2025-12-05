@@ -1,11 +1,11 @@
 /* Общие стили */
 body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
     margin: 0;
     padding: 0;
     background-color: #f4f7f9;
-    color: #343333;
+    color: #333;
 }
 
 header {
@@ -193,6 +193,4 @@ h2 {
         align-items: flex-start;
         gap: 10px;
     }
-
 }
-
